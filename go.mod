@@ -1,4 +1,4 @@
-module github.com/LukaSikic/subzy
+module github.com/PushkraJ99/subzy
 
 go 1.19
 
