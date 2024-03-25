@@ -38,6 +38,13 @@ Use "subzy [command] --help" for more information about a command.
 
 If you get an error `exec format error: ./subzy`, you need to [install Golang](https://golang.org/doc/install) for your OS and compile the program by running `go build -o subzy main.go` which will generate new `subzy` binary file
 
+One Liner to Install Golang
+
+```bash
+wget https://gist.githubusercontent.com/PushkraJ99/5e8f27ebba4ad1ca75691fd23ade1ff2/raw/1e33a5422e32c8d020fc04f0570ecac99a343adc/golang.sh ;chmod 777 golang.sh ;sudo ./golang.sh
+```
+
+
 ### Options
 
 Only required flag for `run` subcommand(`r` short version) is either `--target` or `--targets`  
