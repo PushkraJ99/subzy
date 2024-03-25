@@ -3,7 +3,7 @@ package cmd
 import (
 	"errors"
 	"fmt"
-	"github.com/LukaSikic/subzy/runner"
+	"github.com/PushkraJ99/subzy/runner"
 	"github.com/spf13/cobra"
 	"io/fs"
 	"os"
